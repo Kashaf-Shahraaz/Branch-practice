@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    list-style: none;
+}
+body{
+    height: 100vh;
+    width: 100vw;
+    background-color: cornsilk;
+}
+.nav{
+    background-color: peachpuff;
+    color: gray;
+}
+.navlist{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    font-size: 32px;
+}
