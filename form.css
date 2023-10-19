@@ -19,3 +19,18 @@ body{
     gap: 50px;
     font-size: 32px;
 }
+main{
+    height: 60vh;
+    width: 50vw;
+    background-color: peachpuff;
+    color: gray;
+    border: 2px solid crimson;
+    display: flex;
+    justify-content: center;  
+    margin: 9% 25% ;
+    position: absolute;
+    padding: 10px;
+}
+main h1{
+    font-size: 3em;
+}
