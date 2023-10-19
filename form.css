@@ -31,6 +31,29 @@ main{
     position: absolute;
     padding: 10px;
 }
-main h1{
-    font-size: 3em;
+main h2{
+    font-size: 2em;
 }
+form{
+    font-size: x-large;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column; 
+    position: absolute;
+    margin-top: 100px;
+    gap: 20px;
+}
+main input{
+   
+    height: 30px;
+    width: 500px;
+    border-color: crimson;
+}
+button{
+    height: 50px;
+    width: 100px;
+    background-color: crimson;
+    color: peachpuff;
+    font-size: large;
+}
+  
